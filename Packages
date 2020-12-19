@@ -1,0 +1,16 @@
+Package: com.noahs.breezy
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Themes
+Maintainer: Noah Smyth
+Depends: com.anemonetheming.anemone | com.spark.snowboard
+Filename: ./debians/com.noahs.breezy.deb
+Size: 1140840
+MD5sum: 03313fa01f3d03fb944b94f0875e5e8d
+SHA1: 50a57dcfd6816202ed52e00d669788d1ed756a73
+SHA256: 15c16639c9e537c3cd6dec67e6c9c30b5a1d0817ff7b03a60ed878130342b014
+SHA512: 8f72eeea4c7927a4af355c0863413414cecf1ef89da15cb1d17afbb0a4f383042b10d722d6404ada0387b101f3e990a63a8435bedce0fa0769c1280b0db28ef6
+Description: KDE's 'Breeze' theme carefully ported to iOS. Confirmed working on iOS 14.
+Name: Breezy
+Author: Noah Smyth
+
